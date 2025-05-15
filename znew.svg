@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 156 42" xmlns="http://www.w3.org/2000/svg">
+  <title>PENGUIN INDEX</title>
+  <style type="text/css">
+  <![CDATA[
+    @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap'); /* Using & directly in URL is fine inside CDATA */
+    text {
+      font-family: 'Lato', sans-serif; /* The 'Lato' font is fetched externally. */
+    }
+  ]]>
+  </style>
+  
+  <rect x="0" y="0" width="156" height="42" fill="none"/> <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="16" fill="#FFFFFF"> PENGUIN INDEX
+  </text>
+</svg>
